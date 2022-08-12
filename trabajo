@@ -1,0 +1,18 @@
+<!DOCTYPE html>}
+<html lang="es">
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equiv="x-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hmtl5</title>
+</head>
+<body>
+<h1><font>COLOR="red" face="verdana">SQL, lenguaje estructurado de consultas</font></h1>+
+<p><b>SQL, es un lenguaje</b>para <u>gestionmar bvases de datos estructuradas</u>se aplica en grandes empresas</p>
+<p><i>lorem ipsum dolor sit amet,consectetur adipiscing elit. itaque.ipsam nemo eligendi dicta accusamus miniam</i></p>
+<h2 style="color: blue; font-size:35px; font-family:jokerman;">HTMl es un lenguaje de hipertexto para crear paginas</h2>
+</body>
+</html>
+
+
+ 
